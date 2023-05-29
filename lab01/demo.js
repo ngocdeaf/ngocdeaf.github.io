@@ -1,2 +1,3 @@
-console.log("hello world")
-console.log("1234") 
+console.log("hello world \ngreenwich vietnam")
+console.log(2023);
+ 
